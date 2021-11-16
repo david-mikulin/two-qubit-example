@@ -9,7 +9,7 @@ Recommend installing this into a Python virtual environment:
 python3 -m venv <my_env>
 ```
 
-This has been tested with Python 3.6 through Python 3.9 Once installed into the virtual environment, activate the virtual environment  using:
+This has been tested with Python 3.6 through Python 3.9. Once installed into the virtual environment, activate the virtual environment using:
 ```
 source <my_env>/bin/activate
 ```
@@ -29,8 +29,7 @@ You need to set specify an API token to run the example using a D-Wave quantum c
 dwave config create
 ```
 
-and enter your API token, available from the D-Wave Leap dashboard, when prompted. If you haven't registered for Leap already, it's
-easy and free - sign up here: https://cloud.dwavesys.com/leap/signup/
+and enter your API token, available from the D-Wave Leap dashboard, when prompted. If you haven't registered for Leap already, it's easy and free - sign up here: https://cloud.dwavesys.com/leap/signup/
 
 ## Running
 Start the example using:
