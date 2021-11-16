@@ -1,7 +1,7 @@
 # two-qubit-example
 
 ## Description
-This is a very simple two qubit example that can be used to demonstrate how biasing the coupler results in either the two qubits sampled having the same spin or the opposite spin as indicated by the Ising model.
+This is a very simple two qubit example that can be used to demonstrate how biasing the coupler between two qubits results in either the two qubits sampled after annealing having the same spin or the opposite spin as indicated by the Ising model.
 
 ## Installation
 Recommend installing this into a Python virtual environment:
