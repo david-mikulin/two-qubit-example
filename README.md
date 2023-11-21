@@ -16,7 +16,7 @@ source <my_env>/bin/activate
 Install the requirements using:
 ```
 cd <my_env>
-pip install -r src/requirements.txt
+pip install -r requirements.txt
 ```
 Finally, you need to install the D-Wave Inspector:
 ```
